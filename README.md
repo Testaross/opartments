@@ -1,4 +1,4 @@
-# ocean-apartments
+# opartments
 very basic, single apartment system for ox_core
 
 Police Raid system and ox_target conversion pending 
