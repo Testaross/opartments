@@ -7,7 +7,7 @@ do whatever the hell you want to it, the world is your playground
 
 
 add this to your stashes.lua
-
+```
 {
 	coords = vec3(283.46, -924.79, -21.61),
 	target = {
@@ -25,3 +25,4 @@ add this to your stashes.lua
     slots = 70,
     weight = 70000,
 },
+```
