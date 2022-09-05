@@ -5,6 +5,7 @@ Police Raid system and ox_target conversion pending
 
 do whatever the hell you want to it, the world is your playground
 
+i am using bam_hotel_shell, i honestly do not remember where it even came from, i cant find it again so im 50/50 on sharing it , message me if you know more info then I do
 
 add this to your stashes.lua
 ```
