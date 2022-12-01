@@ -1,3 +1,6 @@
+
+https://discord.gg/bJSW7k4aAP
+
 # opartments
 very basic, single apartment system for ox_core
 
